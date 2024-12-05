@@ -25,7 +25,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/fastapi-todo-app.git
+   git clone https://github.com/muhammaduxair/fastapi-todo-app.git
    cd fastapi-todo-app
    ```
 
@@ -40,7 +40,7 @@ Ensure you have the following installed:
 
 1. **Start the FastAPI server with Uvicorn:**
    ```bash
-   uvicorn main:app --reload --port 8800
+   uvicorn app:app --reload --port 8800
    ```
 
 2. **Access the app:**
